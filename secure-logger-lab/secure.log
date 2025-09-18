@@ -1,0 +1,2 @@
+{"timestamp": "2025-09-18T07:25:06.194922Z", "level": "WARNING", "message": "Invalid JSON received", "data": "b''"}
+{"timestamp": "2025-09-18T07:38:37.204818Z", "level": "INFO", "message": "Validation check performed", "data": "{'email': '<email_masked>', 'url': 'https://secure.com', 'filename': 'report.pdf', 'sql': \"' OR 1=1 --\", 'html': '<script>alert(1)</script>'}", "results": "{'email': True, 'url': True, 'filename': True, 'sql': '1=1', 'html': '&lt;script&gt;alert(1)&lt;/script&gt;'}"}
