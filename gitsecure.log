@@ -1,0 +1,27 @@
+[2025-09-18 13:15:04.736860] Sensitive info found in pre-commit-hook-test/bad.py: pattern password\s*[:=]\s*[\'\"`][^\'\"]{4,}[\'\"`]
+[2025-09-18 13:15:04.737693] File pre-commit-hook-test/bad.py is world-writable!
+[2025-09-18 13:22:33.677341] File .githooks/pre-commit is world-writable!
+[2025-09-18 13:22:33.678235] File gitsecure.log is world-writable!
+[2025-09-18 13:22:33.679151] File requirements1.txt is world-writable!
+[2025-09-18 13:29:43.859728] File .githooks/pre-commit is world-writable!
+[2025-09-18 13:29:43.860578] File gitsecure.log is world-writable!
+[2025-09-18 13:29:43.861408] Sensitive info found in pre-commit-hook-test/bad.py: pattern password\s*[:=]\s*[\'\"`][^\'\"]{4,}[\'\"`]
+[2025-09-18 13:29:43.862270] File pre-commit-hook-test/bad.py is world-writable!
+[2025-09-18 13:29:43.864717] File requirements1.txt is world-writable!
+[2025-09-18 13:31:33.648743] File .githooks/pre-commit is world-writable!
+[2025-09-18 13:31:33.649838] File gitsecure.log is world-writable!
+[2025-09-18 13:31:33.652453] Sensitive info found in pre-commit-hook-test/bad.py: pattern password\s*[:=]\s*[\'\"`][^\'\"]{4,}[\'\"`]
+[2025-09-18 13:31:33.653111] File pre-commit-hook-test/bad.py is world-writable!
+[2025-09-18 13:31:33.655077] File requirements1.txt is world-writable!
+[2025-09-18 13:33:32.358557] File .githooks/pre-commit is world-writable!
+[2025-09-18 13:33:32.359423] File .gitignore is world-writable!
+[2025-09-18 13:33:32.360322] File gitsecure.log is world-writable!
+[2025-09-18 13:33:32.362074] Sensitive info found in pre-commit-hook-test/bad.py: pattern password\s*[:=]\s*[\'\"`][^\'\"]{4,}[\'\"`]
+[2025-09-18 13:33:32.365202] File pre-commit-hook-test/bad.py is world-writable!
+[2025-09-18 13:33:32.365818] File requirements1.txt is world-writable!
+[2025-09-18 13:37:57.432330] File .githooks/pre-commit is world-writable!
+[2025-09-18 13:37:57.433029] File .gitignore is world-writable!
+[2025-09-18 13:37:57.433751] File gitsecure.log is world-writable!
+[2025-09-18 13:37:57.434373] Sensitive info found in pre-commit-hook-test/bad.py: pattern password\s*[:=]\s*[\'\"`][^\'\"]{4,}[\'\"`]
+[2025-09-18 13:37:57.435389] File pre-commit-hook-test/bad.py is world-writable!
+[2025-09-18 13:37:57.436041] File requirements1.txt is world-writable!
